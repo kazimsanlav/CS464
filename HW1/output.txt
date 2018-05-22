@@ -1,0 +1,23 @@
+Calculating accuracy on training data...
+
+Accuracy of prediction is:  92.4%
+
+Confusion matrix:
+[[459  41]
+ [ 35 465]]
+
+Calculating accuracy on test data...
+
+Accuracy of prediction is:  86.25%
+
+Confusion matrix:
+[[170  30]
+ [ 25 175]]
+
+Ranking features...
+10 best feautures with indices:
+[(426, 3.9846145728355893), (1234, 3.486339173167819), (840, 3.486339173167819), (424, 3.486339173167819), (458, 3.4843362819934565), (1289, 3.1955846987749092), (1249, 3.1955846987749092), (1191, 3.1955846987749092), (831, 3.1955846987749092), (731, 3.1955846987749092)]
+plotting test-set accuracy/removed number of features...
+Max accuracy observed is: 0.928
+Max accuracy is observed with 1288 features
+
